@@ -9,7 +9,8 @@
 - The site now speaks directly to local customers with more natural, ready-to-send service copy.
 - Public-facing copy focuses on the service categories already associated with the business.
 - Trust language stays general and does not add claims that are not already public.
-- Public photos were downloaded from the company’s own website pages and saved locally in `assets/photos/` for the hero and gallery sections.
+- Public photos were downloaded from the company’s Facebook page and saved locally in `assets/photos/` for the hero and gallery sections.
+- The Riverside copy intentionally borrows the business’s own public wording, like free quotes, local service, and being in your area, but keeps it cleaned up and readable.
 
 ## Site goals
 - Make it easy for local customers to call or text for a quote
