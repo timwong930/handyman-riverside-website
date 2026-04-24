@@ -1,19 +1,20 @@
-# Handyman Riverside, CA website draft
+# Handyman Riverside, CA
 
 ## Business summary
 - Location: Riverside, Inland Empire, CA
 - Public website/profile: https://www.handymanriverside951.com/
-- Service focus: Carpentry, Electrical, Plumbing and related local work
+- Services: Carpentry, Electrical, Plumbing, Painting, Flooring, Remodeling, and related handyman work
 
-## Why this is a good opportunity
-- The current site is serviceable, but the brand still feels generic. This starter draft adds a stronger visual hierarchy, clearer service blocks, and trust-first calls to action for homeowners who need a quick quote.
-- Public presence is thin or generic compared with the service area.
-- There is room for a clearer local SEO structure, more trust signals, and a better mobile quote flow.
+## Copy notes
+- The site now speaks directly to local customers with more natural, ready-to-send service copy.
+- Public-facing copy focuses on the service categories already associated with the business.
+- Trust language stays general and does not add claims that are not already public.
 
-## Suggested outreach / redesign angle
-- Lead with a cleaner homepage, clearer service sections, and a stronger tap-to-call or quote path.
-- Add project photos, FAQs, service-area copy, and testimonials/reviews if available.
-- Keep the copy tightly focused on the jobs customers actually search for.
+## Site goals
+- Make it easy for local customers to call or text for a quote
+- Keep the homepage clear, mobile-friendly, and focused on the jobs customers actually search for
+- Leave room for reviews, photos, and more details if those are added later
 
-## Starter site in this repo
-This repo includes a simple responsive static site with a tailored hero, services grid, service-area section, and contact CTA.
+## Files in this repo
+- `index.html` — public-facing landing page copy and layout
+- `styles.css` — shared visual styling
